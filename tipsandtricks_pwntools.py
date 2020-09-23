@@ -1,6 +1,6 @@
 from pwn import *
 
-io = remote("a2befdcc18c9fdd3.247ctf.com", 50441)
+io = remote("eda3a9463aa11dfb.247ctf.com",50116)
 
 print(io.recvline())
 print(io.recvline())

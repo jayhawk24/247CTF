@@ -91,3 +91,8 @@ decrypt it twice with base 64.
   
 {"flag":{" b":"247CTF{da807 redacted 807b9a91}"fX0._lU-Q.LGd_µ4´~i´ùú(
 [kÓ09o
+
+### Trusted Client
+Look into the source code and you will find a javascript function which runs on submiting.  
+It is written in js fu*k so decrypt on this website https://enkhee-osiris.github.io/Decoder-JSFuck/ it get find the flag. 
+
